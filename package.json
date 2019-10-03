@@ -1,11 +1,7 @@
 {
 <<<<<<< HEAD
-    "name": "asdfadf",
-    "description": "dfdas",
-=======
     "name": "proj1",
     "description": "test desc",
->>>>>>> acc23a50e74f0d5efa5ca3e4da8870dee8ec3a78
     "version": "0.0.1",
     "dependencies": {},
     "node-red": {
